@@ -1,0 +1,3 @@
+[submodule "themes/simple-cv"]
+	path = themes/simple-cv
+	url = https://github.com/hootan09/simple-cv.git

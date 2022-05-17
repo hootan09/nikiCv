@@ -1,0 +1,117 @@
+Dir: ltr # Left to Right Direction
+
+BasicInfo:
+  FirstName: Mamad
+  LastName: Niki
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-envelope
+      Info: hootan09@gmail.com
+    - Icon: fas fa-phone
+      Info: (+98) 935 957 8994
+    - Icon: fas fa-map-marker-alt
+      Info: Iran
+    - Icon: fab fa-linkedin-in
+      Info: linkedin.com/in/hootan09
+    - Icon: fab fa-github
+      Info: github.com/hootan09
+    - Icon: fas fa-globe
+      Info: NikiTv.ir
+
+# Profile: As a University of Washington graduate and current Amazon intern, I live and breathe software. I have received 5 best-in-class awards for design and mobile-first development. As a front-end developer intern at Amazon, I have implemented real-world industry best practices and turned client/customer concepts into workable models.
+
+Experience:
+  - Employer: Dadeh Gostar
+    Place: Semnan, Iran
+    Positions:
+      - Title: Software Engineer (Backend Developer)
+        Date: 2015
+        Details:
+          - Backend Development for Several Projects Contain Web , Mobile Application.
+          - Development & porting Project Called "AmlakNet" to APS MVC 3.
+          - Design & Development Cross Platform Application Called "Touchsi" for Booking Cars.
+          - Wrining Sample Code & Library for Android Java for Push Notification Porting.
+        Badges: ['GitLab', 'ASP MVC', 'MSSQL', 'Angular2+', 'Ionic2+', 'Windows Server', 'Javascript', 'HTML', 'CSS']
+  - Employer: Petiak (ISP Provider)
+    Place: Tehran, Iran
+    Positions:
+      - Title: Senior Software Developer
+        Date: 2016
+        Details:
+          - Develope Pannels for Cusomers with Node.js and Ionic2+ for Cross Platform Application.
+          - Develope CRM for Company with Node.js, Angular2+.
+          - Design & Product Deployment Strategy for Releasing Products.
+        Badges: [ 'Node.js', 'Linux', 'Docker', 'Git', 'Redis', 'MySQL', 'MongoDB', 'Angular2+', 'Ionic2+', 'WikiMedia']
+  - Employer: German Lloyd (Oil Industry)
+    Place: Tehran-Asaluyeh, Iran
+    Positions:
+      - Title: Software Developer
+        Date: 2016 - 2017
+        Details:
+          - Design & Development Web Reports Admin Pannel
+          - Development Windows Form Application with C#
+          - Development from Ground Machine Learning Leaner Regression for Detecting Corrosion in Air Cooler Oil and Gas
+        Badges: ['ASP MVC', 'WinForm', 'C#', 'SQL Server', 'Windows Server', 'TFS']
+  - Employer: Aparadise
+    Place: Tehran, Iran
+    Positions:
+      - Title: Senior Software Developer
+        Date: 2019 - 2020
+        Details:
+          - Development ReactNative Projects
+          - Development Node.js Projects wiht Docker-Compose and MongoDB with Linux
+          - Development & Design VOIP & WebRTC Project for making Call Service
+          - Config Esxi and Servers for my Company
+          - Development QuizApp online Match Making Question Application with Node.js & Socket.IO
+        Badges: ['Node.js', 'Linux', 'ESXI', 'Docker', 'ReactNative', 'MongoDB', 'Git', 'HTML', 'CSS']
+  - Employer: Free Lance Software Developer
+    Positions:
+      - Title: Senior Software Developer
+        Date: 2020 - Current
+        Details:
+          - Development ReactNative Projects (Check my Github Account)
+          - Switch From Wordpress to Hugo Static Site Generator for my Personal Blog (NikiTv.ir)
+          - Create Project Called HorseBook with Node.js, Angular, Ionic thats give API to any Application.
+          - Create Personal Blog With Node.js and Forntend with React.js & Ported to Nextjs thats support Testing, Linting, CIDI
+          - Design KingStone Project wich is Shopping Site for my Customers with Node.js, MongoDB, Linux, that Support APi & Authentication (RESTful)
+          - Cooperate & Development 3 Unity3d Games with C# for Cross Platform Device
+          - Design & Development this 👇 Theme for Create Freely Resumes & Cv with hugo
+          - Creating Personal Project with Golang 
+        Badges: ['Node.js', 'GoLang', 'C#', 'JavaScript', 'Linux', 'ESXI', 'Docker', 'ReactNative', 'MongoDB', 'Git', 'HTML', 'CSS']      
+
+Education:
+  - Degree: B.S.
+    FieldOfStudy: Computer Science
+    NameofSchool: University of Semnan
+    Location: Iran, Semnan
+    Date: Sep 2012 - Nov 2017
+    RelevantCourses:
+      - Data Structures
+      - Algorithm Design
+      - Database Management Systems
+      - Computer Vision
+      - Software Design Methodology
+
+Personal:
+  - Gender: Male
+    BirthDate: 1991
+    Status: Free to Work
+    MaritalStatus: Single
+
+
+
+Skills:
+ - Node.js
+ - Linux
+ - Git
+ - Docker
+ - CICD
+ - Jenkins
+ - HTML & CSS
+ - React.js
+ - ReactNative
+ - Next.js
+ - GoLang
+ - Python
+ - Unity3D (C#)
+ - Hugo

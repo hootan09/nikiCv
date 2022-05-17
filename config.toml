@@ -1,0 +1,25 @@
+languageCode = "en-us"
+defaultContentLanguage = "en" # "en" or "fa"
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "simple-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://example.com/"
+title = "Example - CV"
+#googleAnalytics = ""
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#666"
+colorPageBackground = "#ddd"
+colorPrimary = "#dbdbdb"
+colorIconPrimary = "#ccc"
+colorIconSecondary = "#e3bfb8"
+colorIconBackground = "#dbdbdb"
+colorLeftColumnBackground = "#333"
+colorRightColumnHeadingText = "#666"
+colorRightColumnBodyText = "#666"
+pages = 1
