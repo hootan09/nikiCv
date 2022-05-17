@@ -6,7 +6,7 @@ enableEmoji = true
 theme = "simple-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://hootan09.github.io/nikiCv/"
+baseURL = "https://cv.nikitv.ir"
 title = "NikiCV"
 #googleAnalytics = ""
 
