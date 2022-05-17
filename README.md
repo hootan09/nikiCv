@@ -1,1 +1,1 @@
-### my personal [CV](https://hootan09.github.io/nikiCv)
+### my personal [CV](https://cv.nikitv.ir)
