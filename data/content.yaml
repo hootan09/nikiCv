@@ -2,15 +2,15 @@ Dir: ltr # Left to Right Direction
 
 BasicInfo:
   FirstName: Mamad
-  LastName: Niki
-  Photo: img/avatar.jpg
+  LastName: Nikravesh
+  # Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-envelope
       Info: hootan09@gmail.com
     - Icon: fas fa-phone
       Info: (+98) 935 957 8994
     - Icon: fas fa-map-marker-alt
-      Info: Iran
+      Info: Iran, Tehran
     - Icon: fab fa-linkedin-in
       Info: linkedin.com/in/hootan09
     - Icon: fab fa-github
@@ -21,6 +21,52 @@ BasicInfo:
 # Profile: As a University of Washington graduate and current Amazon intern, I live and breathe software. I have received 5 best-in-class awards for design and mobile-first development. As a front-end developer intern at Amazon, I have implemented real-world industry best practices and turned client/customer concepts into workable models.
 
 Experience:
+  - Employer: Free Lance Software Developer
+    Positions:
+      - Title: Backend & Front Developer
+        Date: 2020 - Current
+        Details:
+          - Developing React Native Open Source Projects (Check my Github Account)
+          - Switch From Wordpress to Hugo Static Site Generator for my Personal Blog (NikiTv.ir)
+          - Create Project Called HorseBook with Node.js, Angular, Ionic thats give API to any Application.
+          - Create Personal Blog With Node.js and Forntend with React.js & Ported to Nextjs thats support Testing, Linting, CIDI
+          - Design KingStone Project wich is Shopping Site for my Customers with Node.js, MongoDB, Linux, that Support APi & Authentication (RESTful)
+          - Cooperate & Development 3 Unity3d Games with C# for Cross Platform Device
+          - Design & Development this Theme (Simple-CV) for Create Freely Resumes & Cv with hugo
+          - Creating Personal Project with Golang 
+        Badges: ['Node.js', 'GoLang', 'C#', 'JavaScript', 'Linux', 'ESXI', 'Docker', 'React Native', 'MongoDB', 'Git', 'HTML', 'CSS']     
+  - Employer: A1paradise
+    Place: Tehran, Iran
+    Positions:
+      - Title: Senior Software Developer
+        Date: 2019 - 2020
+        Details:
+          - Developing React Native Projects
+          - Developing Node.js Projects wiht Docker-Compose and MongoDB with Linux
+          - Develop & Design VOIP & WebRTC Project for making Call Service
+          - Config Esxi and Servers for my Company
+          - Developing QuizApp Online Match Making Question Application with Node.js & Socket.IO
+        Badges: ['Node.js', 'Linux', 'ESXI', 'Docker', 'React Native', 'MongoDB', 'Git', 'HTML', 'CSS']  
+  - Employer: German Lloyd (Oil Industry)
+    Place: Tehran, Iran
+    Positions:
+      - Title: Software Developer
+        Date: 2017 - 2018
+        Details:
+          - Design & Development Web Reports Admin Pannel
+          - Developing Windows Form Application with C#
+          - Developing from Ground Machine Learning "Leaner Regression" for Detecting Corrosion in Air Cooler Oil and Gas
+        Badges: ['ASP MVC', 'WinForm', 'C#', 'SQL Server', 'Windows Server', 'TFS']  
+  - Employer: Petiak (ISP Provider)
+    Place: Tehran, Iran
+    Positions:
+      - Title: Senior Software Developer
+        Date: 2016
+        Details:
+          - Developing Pannels for Cusomers with Node.js and Ionic2+ for Cross Platform Application.
+          - Developing CRM for Company with Node.js,Angular2+.
+          - Design & Produce Deployment Strategy for Releasing Products.
+        Badges: [ 'Node.js', 'Linux', 'Docker', 'Git', 'Redis', 'MySQL', 'MongoDB', 'Angular2+', 'Ionic2+', 'WikiMedia']  
   - Employer: Dadeh Gostar
     Place: Semnan, Iran
     Positions:
@@ -32,52 +78,10 @@ Experience:
           - Design & Development Cross Platform Application Called "Touchsi" for Booking Cars.
           - Wrining Sample Code & Library for Android Java for Push Notification Porting.
         Badges: ['GitLab', 'ASP MVC', 'MSSQL', 'Angular2+', 'Ionic2+', 'Windows Server', 'Javascript', 'HTML', 'CSS']
-  - Employer: Petiak (ISP Provider)
-    Place: Tehran, Iran
-    Positions:
-      - Title: Senior Software Developer
-        Date: 2016
-        Details:
-          - Developing Pannels for Cusomers with Node.js and Ionic2+ for Cross Platform Application.
-          - Developing CRM for Company with Node.js,Angular2+.
-          - Design & Produce Deployment Strategy for Releasing Products.
-        Badges: [ 'Node.js', 'Linux', 'Docker', 'Git', 'Redis', 'MySQL', 'MongoDB', 'Angular2+', 'Ionic2+', 'WikiMedia']
-  - Employer: German Lloyd (Oil Industry)
-    Place: Tehran-Asaluyeh, Iran
-    Positions:
-      - Title: Software Developer
-        Date: 2016 - 2017
-        Details:
-          - Design & Development Web Reports Admin Pannel
-          - Developing Windows Form Application with C#
-          - Developing from Ground Machine Learning "Leaner Regression" for Detecting Corrosion in Air Cooler Oil and Gas
-        Badges: ['ASP MVC', 'WinForm', 'C#', 'SQL Server', 'Windows Server', 'TFS']
-  - Employer: A1paradise
-    Place: Tehran, Iran
-    Positions:
-      - Title: Senior Software Developer
-        Date: 2019 - 2020
-        Details:
-          - Developing ReactNative Projects
-          - Developing Node.js Projects wiht Docker-Compose and MongoDB with Linux
-          - Develop & Design VOIP & WebRTC Project for making Call Service
-          - Config Esxi and Servers for my Company
-          - Developing QuizApp Online Match Making Question Application with Node.js & Socket.IO
-        Badges: ['Node.js', 'Linux', 'ESXI', 'Docker', 'ReactNative', 'MongoDB', 'Git', 'HTML', 'CSS']
-  - Employer: Free Lance Software Developer
-    Positions:
-      - Title: Senior Software Developer
-        Date: 2020 - Current
-        Details:
-          - Developing ReactNative Projects (Check my Github Account)
-          - Switch From Wordpress to Hugo Static Site Generator for my Personal Blog (NikiTv.ir)
-          - Create Project Called HorseBook with Node.js, Angular, Ionic thats give API to any Application.
-          - Create Personal Blog With Node.js and Forntend with React.js & Ported to Nextjs thats support Testing, Linting, CIDI
-          - Design KingStone Project wich is Shopping Site for my Customers with Node.js, MongoDB, Linux, that Support APi & Authentication (RESTful)
-          - Cooperate & Development 3 Unity3d Games with C# for Cross Platform Device
-          - Design & Development this Theme (Simple-CV) for Create Freely Resumes & Cv with hugo
-          - Creating Personal Project with Golang 
-        Badges: ['Node.js', 'GoLang', 'C#', 'JavaScript', 'Linux', 'ESXI', 'Docker', 'ReactNative', 'MongoDB', 'Git', 'HTML', 'CSS']      
+
+
+
+ 
 
 Education:
   - Degree: B.S.
@@ -94,9 +98,9 @@ Education:
 
 Personal:
   - Gender: Male
-    BirthDate: 1991
-    Status: Free to Work
-    MaritalStatus: Single
+    BirthDate: 1990-10-05
+    # Status: Free to Work
+    # MaritalStatus: Single
 
 
 
@@ -109,7 +113,7 @@ Skills:
  - Jenkins
  - HTML & CSS
  - React.js
- - ReactNative
+ - React Native
  - Next.js
  - GoLang
  - Python
