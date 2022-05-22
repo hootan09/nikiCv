@@ -34,7 +34,7 @@ Experience:
           - Create personal blog Sample With Node.js and React.js & ported to Nextjs thats support testing, linting for CICD.
           - Design KingStone project wich is shopping site for clients/customers with Node.js, MongoDB, Linux, that support API & authentication (RESTful).
           - Design & Development this theme (Simple-CV) for creating freely resumes & cv with Hugo.
-          - Implement IOT projects with Mosquitto Broker, Docker Hub, Linux for controlling devices in realtime .
+          - Implement IOT PubSub projects with Mosquitto Broker, Docker Hub, Linux for controlling devices in realtime .
         Badges: ['Node.js', 'GoLang', 'C#', 'JavaScript', 'Linux', 'ESXI', 'Docker', 'React Native', 'MongoDB', 'Git', 'HTML', 'CSS']     
   - Employer: A1paradise
     Place: Tehran, Iran
