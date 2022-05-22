@@ -30,9 +30,9 @@ Experience:
           - Develop personal React Native open source projects.
           - Switch from WordPress to Hugo static site generator for my personal blog (NikiTv.ir).
           - Cooperate & Development in 3 Unity3D games with C# for mobile platforms.
-          - Create a project called HorseBook with Node.js, Angular, Ionic that gives API to mobile applications.
+          - Create a project called "HorseBook" with Node.js, Angular, Ionic that gives API to mobile applications.
           - Create personal blog Sample With Node.js and React.js & ported to Nextjs that supports testing, linting for CICD.
-          - Design KingStone project, which is a shopping site for clients/customers with Node.js, MongoDB, Linux, that supports API & authentication (RESTful).
+          - Design "KingStone" project, which is a shopping site for clients/customers with Node.js, MongoDB, Linux, that supports API & authentication (RESTful).
           - Design & Developing this theme (Simple-CV) for creating free resumes & CV with Hugo.
           - Implement IOT PubSub projects with Mosquitto Broker, Docker Hub, Linux for controlling devices in real-time .
         Badges: ['Node.js', 'GoLang', 'C#', 'JavaScript', 'Linux', 'ESXI', 'Docker', 'React Native', 'MongoDB', 'Git', 'HTML', 'CSS']     
@@ -56,7 +56,7 @@ Experience:
         Details:
           - Design & Development web reports admin panel.
           - Developing Windows Form Application with C#.
-          - Developing Machine Learning "Leaner Regression" from Ground for detecting corrosion in Air-Coolers (oil industry).
+          - Developing Machine Learning (Leaner Regression) from Ground for detecting corrosion in Air-Coolers (oil industry).
         Badges: ['ASP MVC', 'WinForm', 'C#', 'SQL Server', 'Windows Server', 'TFS']  
   - Employer: Petiak (ISP Provider)
     Place: Tehran, Iran
@@ -65,7 +65,7 @@ Experience:
         Date: 2016
         Details:
           - Developing customers panel with Node.js and Ionic2+ for cross-platform applications.
-          - Developing CRM for the company with Node.js,Angular2+.
+          - Developing CRM for the company with Node.js, Angular2+.
           - Design & Produce deployment strategy for releasing products.
           - Implement upload center & added web push notification to upload center.
         Badges: [ 'Node.js', 'Linux', 'Docker', 'Git', 'Redis', 'MySQL', 'MongoDB', 'Angular2+', 'Ionic2+', 'WikiMedia']  
