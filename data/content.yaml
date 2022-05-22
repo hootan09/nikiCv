@@ -28,13 +28,13 @@ Experience:
         Details:
           - Creating personal projects with Golang.
           - Develop personal React Native open source projects.
-          - Switch from Wordpress to Hugo static site generator for my personal blog (NikiTv.ir).
+          - Switch from WordPress to Hugo static site generator for my personal blog (NikiTv.ir).
           - Cooperate & Development in 3 Unity3D games with C# for mobile platforms.
           - Create a project called HorseBook with Node.js, Angular, Ionic that gives API to mobile applications.
           - Create personal blog Sample With Node.js and React.js & ported to Nextjs that supports testing, linting for CICD.
           - Design KingStone project, which is a shopping site for clients/customers with Node.js, MongoDB, Linux, that supports API & authentication (RESTful).
           - Design & Development this theme (Simple-CV) for creating free resumes & CV with Hugo.
-          - Implement IOT PubSub projects with Mosquitto Broker, Docker Hub, Linux for controlling devices in realtime .
+          - Implement IOT PubSub projects with Mosquitto Broker, Docker Hub, Linux for controlling devices in real-time .
         Badges: ['Node.js', 'GoLang', 'C#', 'JavaScript', 'Linux', 'ESXI', 'Docker', 'React Native', 'MongoDB', 'Git', 'HTML', 'CSS']     
   - Employer: A1paradise
     Place: Tehran, Iran
@@ -42,11 +42,11 @@ Experience:
       - Title: Senior Software Developer
         Date: 2019 - 2020
         Details:
-          - Develop & fixing bug for React Native projects.
+          - Develop & fixing bugs for React Native projects.
           - Developing Node.js Projects with Docker-Compose and MongoDB, Linux.
-          - Develop & Design VOIP & WebRTC projects for making call services.
+          - Develop & Design VOIP & WebRTC projects for making calls service.
           - Configure ESXI and servers for the company.
-          - Developing QuizApp online match making question application with Node.js & Socket.IO.
+          - Developing "QuizApp" online match making question application with Node.js & Socket.IO.
         Badges: ['Node.js', 'Linux', 'ESXI', 'Docker', 'React Native', 'MongoDB', 'Git', 'HTML', 'CSS']  
   - Employer: German Lloyd (Oil Industry)
     Place: Tehran, Iran
@@ -64,7 +64,7 @@ Experience:
       - Title: Senior Software Developer
         Date: 2016
         Details:
-          - Developing customers panels with Node.js and Ionic2+ for cross-platform applications.
+          - Developing customers panel with Node.js and Ionic2+ for cross-platform applications.
           - Developing CRM for the company with Node.js,Angular2+.
           - Design & Produce deployment strategy for releasing products.
           - Implement upload center & added web push notification to upload center.
@@ -75,10 +75,10 @@ Experience:
       - Title: Software Engineer (Back-end Developer)
         Date: 2015
         Details:
-          - Back-end developer in several projects contains web & mobile applications.
+          - Back-end developer with several projects contains web & mobile applications.
           - Develop & porting project called "AMLAKNET" to ASP MVC 3.
-          - Design & Development cross platform application called "TOUCHSI" for booking cars.
-          - Writing sample code & library for porting Java Android push notification.
+          - Design & Developing a cross-platform application called "TOUCHSI" for booking cars.
+          - Writing sample code & library for porting Java,Android push notification.
         Badges: ['GitLab', 'ASP MVC', 'MSSQL', 'Angular2+', 'Ionic2+', 'Windows Server', 'JavaScript', 'HTML', 'CSS']
 
 
