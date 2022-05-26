@@ -2,64 +2,83 @@ Dir: rtl # Right to Left Direction
 
 BasicInfo:
   FirstName: محمد
-  LastName: نیکی
-  Photo: img/avatar.jpg
+  LastName: نیک روش
+  # Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-envelope
       Info: hootan09@gmail.com
     - Icon: fas fa-phone
       Info: (+98) 935 957 8994
     - Icon: fas fa-map-marker-alt
-      Info: ایران
+      Info: ایران, تهران
     - Icon: fab fa-linkedin-in
       Info: linkedin.com/in/hootan09
+      Link: true
     - Icon: fab fa-github
       Info: github.com/hootan09
+      Link: true
     - Icon: fas fa-globe
       Info: NikiTv.ir
+      Link: true
 
 
 Experience:
-  - Employer: شرکت فوق العاده باحال
-    Place: انگلستان, آکسفورد
+  - Employer: برنامه نویس آزاد (فریلنس)
+    Place:
     Positions: 
-      - Title: مهندس کامپیوتر
-        Date: Jan 2020 - Present
+      - Title: توسعه دهنده نرم افزار (فرانت و بک اند)
+        Date: اکنون - ۱۳۹۹
         Details:
-           - کمان عنصر حیات
-           - موز را بکشید
-           - برای اینکه بیشتر بیاید مدرسه ما چه می تواند تمرین کند
-           - هیچ کاری لازم نیست انجام شود مگر اینکه انجام شود
-           - اما کوهنوردان در این.
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: تست کننده نرم افزار
-        Date: Mar 2019 - Jan 2020
-        Details:
-           - هیچ کاری لازم نیست انجام شود مگر اینکه انجام شود
-           - اما کوهنوردان در این.
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: یه شرکت فوق العاده باحال دیگه
+           - ایجاد و توسعه پروژه های شخصی با زبان برنامه نویسی Go
+           - توسعه در پروژه های شخصی و متن باز React Native در گیت هاب
+           - تغییر و تبدیل وب سایت شخصی (NikiTv.ir) از وردپرس به Hugo (Static Site Generator)
+           - توسعه و همکاری در پیاده سازی ۳ بازی موبایلی با Unity3D
+           - پیاده سازی پروژه ی HorseBook با Node.js, AngularJs و Ionic جهت ساخت اپلیکیشن موبایلی با بک اند RESTful API
+        Badges: ['Node.js', 'GoLang', 'C#', 'JavaScript', 'Linux', 'ESXI', 'Docker', 'React Native', 'MongoDB', 'Git', 'HTML', 'CSS']
+  - Employer: ایوان پردیس
     Place: ایران, تهران
     Positions:
-      - Title: کارشناس منابع فلوسیتومتری
-        Date: Jan 2018 - Mar 2019
+      - Title: توسعه دهنده نرم افزار
+        Date: ۱۳۹۹ - ۱۳۹۸
         Details:
-           - برای اینکه بیشتر بیاید مدرسه ما چه می تواند تمرین کند
-           - هیچ کاری لازم نیست انجام شود مگر اینکه انجام شود
-           - اما کوهنوردان در این.
-           - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: موسسه مهندسی عصبی
-    Place: امارات, دبی
+           - توسعه و نگهداری برنامه های موبایلی React Native
+           - توسعه دهنده Node.js با Docker-Compose و MongoDB روی بستر لینوکسی
+           - طراحی و پیاده سازی سیستم تماس صوتی و تصویری با VOIP و  WebRTC
+           - توسعه و نگهداری شبکه و سرورها و سایت های شرکت بر روی ESXI
+           - توسعه برنامه QuizApp. یک بازی انلاین مسابقه ای با Node.js و Socket.IO
+        Badges: ['Node.js', 'Linux', 'ESXI', 'Docker', 'React Native', 'MongoDB', 'Git', 'HTML', 'CSS']
+  - Employer: للوید آلمان-کیش (صنعت نفتی)
+    Place: ایران, تهران-عسلویه
     Positions:
-      - Title: کارآموز پژوهشی پایان نامه کارشناسی ارشد
-        Date: Oct 2016 - Jun 2017
+      - Title: توسعه دهنده نرم افزار
+        Date: ۱۳۹۸ - ۱۳۹۷
         Details:
-           - کمان عنصر حیات
-           - موز را بکشید
-           - برای اینکه بیشتر بیاید مدرسه ما چه می تواند تمرین کند
-           - هیچ کاری لازم نیست انجام شود مگر اینکه انجام شود
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+           - طراحی و توسعه وب پنل گزارش گیر اجزای سیستم های نفتی
+           - توسعه و برنامه نویسی سی شارپ در Windows Form Application
+           - پیاده سازی و توسعه یادگیری ماشین (رگرسیون خطی) از پایه  جهت تخمین عمر مفید Air Coolers  ها در صنایع نفتی
+        Badges: ['ASP MVC', 'WinForm', 'C#', 'SQL Server', 'Windows Server', 'TFS']
+  - Employer: پتیاک (ISP Provider)
+    Place: ایران, تهران
+    Positions:
+      - Title: توسعه دهنده نرم افزار
+        Date: ۱۳۹۶
+        Details:
+          - توسعه وب سایت  و پنل مشتری و همچنین اپلیکیشن موبایلی با  Node.js و Ionic2+
+          - توسعه CRM برای شرکت مذکور با Node.js و Angular2+
+          - طراحی استراتژی نگهداری و بروز رسانی سرورهای تخت وب جهت بروز کردن نسخه ریلیز شده
+          - پیاده سازی آپلود سنتر درون سازمانی شرکت و هنگام سازی آن با Web Push Notification
+        Badges: [ 'Node.js', 'Linux', 'Docker', 'Git', 'Redis', 'MySQL', 'MongoDB', 'Angular2+', 'Ionic2+', 'WikiMedia']  
+  - Employer: داده گستر
+    Place: ایران, سمنان
+    Positions:
+      - Title: توسعه دهنده نرم افزار بک اند
+        Date: ۱۳۹۵
+        Details:
+          - توسعه دهنده بک اند برای چندیدن پروژه داخلی شرکت جهت اجرای روی بستر وب و موبایل
+          - تغییر و تبدیل پروژه "املاک نت" از وب فرم به ASP MVC 3
+          - توسعه و پیاده سازی اپلیکیشن موبایلی جهت رزور خودرو
+          - پیاده سازی نمونه کد و کتابخانه موبایلی جاوا اندروید جهت سرویس نوتیفیکیشن
+        Badges: ['GitLab', 'ASP MVC', 'MSSQL', 'Angular2+', 'Ionic2+', 'Windows Server', 'JavaScript', 'HTML', 'CSS']
         
 
 Education:
@@ -67,7 +86,7 @@ Education:
     FieldOfStudy: علوم کامپیوتر
     NameofSchool: دانشگاه سمنان
     Location: ایران, سمنان
-    Date: Sep 2012 - Nov 2017
+    Date: بهمن ۱۳۸۸ - مهر ۱۳۹۳
     RelevantCourses:
        - ساختارهای داده
        - طراحی الگوریتم
@@ -79,23 +98,19 @@ Education:
 
 Personal:
   - Gender: مرد
-    BirthDate: 1369/07/13
+    BirthDate: ۱۳۶۹/۰۷/۱۳
     Status: پایان خدمت
     MaritalStatus: مجرد
 
 
 Skills:
- - Node.js
- - Linux
- - Git
- - Docker
- - CICD
- - Jenkins
- - HTML & CSS
- - React.js
- - React Native
- - Next.js
+ - Linux | Docker | Git
+ - Node.js | JavaScript
  - GoLang
  - Python
  - Unity3D (C#)
- - Hugo
+ - NoSQL | SQL
+ - CI/CD | Jenkins
+ - React.js | Next.js | AngularJs | Hugo
+ - React Native | Ionic
+ - HTML & CSS
