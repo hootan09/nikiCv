@@ -7,16 +7,22 @@ BasicInfo:
   Contacts:
     - Icon: fas fa-envelope
       Info: hootan09@gmail.com
+      Link: false
     - Icon: fas fa-phone
       Info: (+98) 935 957 8994
+      Link: false
     - Icon: fas fa-map-marker-alt
-      Info: Tehran, Iran 
+      Info: Tehran, Iran
+      Link: false 
     - Icon: fab fa-linkedin-in
       Info: linkedin.com/in/hootan09
+      Link: true
     - Icon: fab fa-github
       Info: github.com/hootan09
+      Link: true
     - Icon: fas fa-globe
       Info: NikiTv.ir
+      Link: true
 
 Experience:
   - Employer: Freelance Software Developer
