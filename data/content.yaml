@@ -1,7 +1,7 @@
 Dir: ltr # Left to Right Direction
 
 BasicInfo:
-  FirstName: Mamad
+  FirstName: Mohammad
   LastName: Nikravesh
   # Photo: img/avatar.jpg
   Contacts:
@@ -10,7 +10,7 @@ BasicInfo:
     - Icon: fas fa-phone
       Info: (+98) 935 957 8994
     - Icon: fas fa-map-marker-alt
-      Info: Iran, Tehran
+      Info: Tehran, Iran 
     - Icon: fab fa-linkedin-in
       Info: linkedin.com/in/hootan09
     - Icon: fab fa-github
@@ -18,35 +18,33 @@ BasicInfo:
     - Icon: fas fa-globe
       Info: NikiTv.ir
 
-Profile: As a University of Semnan graduate and current freelance developer, I live and breathe software. As a back-end developer in several companies, I have implemented real-world industry best practices and turned client/customer concepts into workable models.
-
 Experience:
   - Employer: Freelance Software Developer
     Positions:
-      - Title: Back-end & Front-end Developer
+      - Title: Back-end and Front-end Developer
         Date: 2020 - Current
         Details:
-          - Creating personal projects with Golang.
+          - Create personal projects with Golang.
           - Develop personal React Native open source projects.
-          - Switch from WordPress to Hugo static site generator for my personal blog (NikiTv.ir).
-          - Cooperate & Development in 3 Unity3D games with C# for mobile platforms.
-          - Create a project called "HorseBook" with Node.js, Angular, Ionic that gives API to mobile applications.
-          - Create personal blog Sample With Node.js and React.js & ported to Nextjs that supports testing, linting for CICD.
-          - Design "KingStone" project, which is a shopping site for clients/customers with Node.js, MongoDB, Linux, that supports API & authentication (RESTful).
-          - Design & Developing this theme (Simple-CV) for creating free resumes & CV with Hugo.
-          - Implement IOT PubSub projects with Mosquitto Broker, Docker Hub, Linux for controlling devices in real-time .
+          - Switched from WordPress to Hugo static site generator for my personal blog (NikiTv.ir).
+          - Developed three Unity3D games with C# for mobile platforms.
+          - Created "HorseBook", a project with Node.js, Angular and Ionic that gives API to mobile applications.
+          - Created personal blog Sample With Node.js and React.js, and ported to Nextjs that supports testing and linting for CI/CD.
+          - Designed "KingStone", a shopping website for clients/customers with Node.js, MongoDB and Linux, that supports API & authentication (RESTful).
+          - Designed and developed this theme (Simple-CV) for creating free resumes & CV with Hugo.
+          - Implemented IOT PubSub projects with Mosquitto Broker, Docker Hub and Linux for controlling devices in real-time .
         Badges: ['Node.js', 'GoLang', 'C#', 'JavaScript', 'Linux', 'ESXI', 'Docker', 'React Native', 'MongoDB', 'Git', 'HTML', 'CSS']     
-  - Employer: A1paradise
+  - Employer: A1Paradise
     Place: Tehran, Iran
     Positions:
       - Title: Senior Software Developer
         Date: 2019 - 2020
         Details:
-          - Develop & fixing bugs for React Native projects.
-          - Developing Node.js Projects with Docker-Compose and MongoDB, Linux.
-          - Develop & Design VOIP & WebRTC projects for making calls service.
-          - Configure ESXI and servers for the company.
-          - Developing "QuizApp" online match making question application with Node.js & Socket.IO.
+          - Developed and maintained React Native projects.
+          - Developed Node.js projects with Docker-Compose and MongoDB on Linux.
+          - Developed and Designed VOIP & WebRTC projects for calls services.
+          - Configured ESXI and servers for the company.
+          - Developed "QuizApp", an online matchmaking questions application with Node.js and Socket.IO.
         Badges: ['Node.js', 'Linux', 'ESXI', 'Docker', 'React Native', 'MongoDB', 'Git', 'HTML', 'CSS']  
   - Employer: German Lloyd (Oil Industry)
     Place: Tehran, Iran
@@ -54,9 +52,9 @@ Experience:
       - Title: Software Developer
         Date: 2017 - 2018
         Details:
-          - Design & Development web reports admin panel.
-          - Developing Windows Form Application with C#.
-          - Developing Machine Learning (Leaner Regression) from Ground for detecting corrosion in Air-Coolers (oil industry).
+          - Designed and Developed web reports admin panel.
+          - Developed Windows Form Application with C#.
+          - Developed machine learning pipeline (Linear Regression) from ground up for detecting corrosion in air Coolers (oil industry).
         Badges: ['ASP MVC', 'WinForm', 'C#', 'SQL Server', 'Windows Server', 'TFS']  
   - Employer: Petiak (ISP Provider)
     Place: Tehran, Iran
@@ -64,10 +62,10 @@ Experience:
       - Title: Senior Software Developer
         Date: 2016
         Details:
-          - Developing customers panel with Node.js and Ionic2+ for cross-platform applications.
-          - Developing CRM for the company with Node.js, Angular2+.
-          - Design & Produce deployment strategy for releasing products.
-          - Implement upload center & added web push notification to upload center.
+          - Developed customers panel with Node.js and Ionic2+ for cross-platform applications.
+          - Developed CRM for the company with Node.js and Angular2+.
+          - Designed deployment strategy for releasing products.
+          - Implemented an upload center with web push notifications.
         Badges: [ 'Node.js', 'Linux', 'Docker', 'Git', 'Redis', 'MySQL', 'MongoDB', 'Angular2+', 'Ionic2+', 'WikiMedia']  
   - Employer: Dadeh Gostar
     Place: Semnan, Iran
@@ -75,10 +73,10 @@ Experience:
       - Title: Software Engineer (Back-end Developer)
         Date: 2015
         Details:
-          - Back-end developer with several projects contains web & mobile applications.
-          - Develop & porting project called "AMLAKNET" to ASP MVC 3.
-          - Design & Developing a cross-platform application called "TOUCHSI" for booking cars.
-          - Writing sample code & library for porting Java,Android push notification.
+          - Back-end developer for several web and mobile applications.
+          - Ported the "AMLAKNET" project to ASP MVC 3.
+          - Designed and developed a cross-platform application called "TOUCHSI" for booking cars.
+          - Wrote sample code and library for porting Java and Android push notification.
         Badges: ['GitLab', 'ASP MVC', 'MSSQL', 'Angular2+', 'Ionic2+', 'Windows Server', 'JavaScript', 'HTML', 'CSS']
 
 
@@ -86,7 +84,7 @@ Experience:
  
 
 Education:
-  - Degree: B.S.
+  - Degree: B.Sc.
     FieldOfStudy: Computer Science
     NameofSchool: University of Semnan
     Location: Iran, Semnan
@@ -98,26 +96,24 @@ Education:
       - Computer Vision
       - Software Design Methodology
 
+Profile: As a University of Semnan computer science graduate and current freelance developer, I live and breathe software. As a back-end developer in several companies, I have implemented real-world industry best practices and turned client/customer concepts into workable models.
+
 Personal:
-  - Gender: Male
-    BirthDate: 1990-10-05
+    # Gender: Male
+    # BirthDate: 1990-10-05
     # Status: Free to Work
     # MaritalStatus: Single
 
 
 
 Skills:
- - Node.js
- - Linux
- - Git
- - Docker
- - CICD
- - Jenkins
- - HTML & CSS
- - React.js
- - React Native
- - Next.js
- - GoLang
+ - Linux | Docker | Git
+ - Node.js | JavaScript
+ - GoLang 
  - Python
  - Unity3D (C#)
- - Hugo
+ - NoSQL | SQL
+ - CI/CD | Jenkins
+ - React.js | Next.js | AngularJs | Hugo
+ - React Native | Ionic
+ - HTML | CSS
